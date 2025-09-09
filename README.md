@@ -14,3 +14,31 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# I'm Abitha! 
+
+💻 **Software Developer | AI Enthusiast**  
+I enjoy building robust software solutions, exploring new tech, and making complex systems work seamlessly.  
+
+---
+
+### 🛠 Skills & Technologies
+- **Languages:** Java, Python, Go  
+
+
+---
+### 🌟 Fun Facts
+
+- I prefer dogs over people 🐶❤️  
+- Old school coder at heart—Eclipse forever!  
+- Chai and code fuel my productivity ☕💻  
+
+
+---
+
+### 📫 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/sai-abitha/)  
+- [Email](mailto:saiabitharao@gmail.com)
+
+---
+
