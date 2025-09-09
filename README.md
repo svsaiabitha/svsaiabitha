@@ -29,7 +29,7 @@ I enjoy building robust software solutions, exploring new tech, and making compl
 ---
 ### 🌟 Fun Facts
 
-- I prefer dogs over people 🐶❤️  
+- Dogs >>>> People 🐶❤️  
 - Old school coder at heart—Eclipse forever!  
 - Chai and code fuel my productivity ☕💻  
 
