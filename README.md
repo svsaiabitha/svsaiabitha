@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
  
 
-💻 **Software Developer | AI Enthusiast**  
+💻 **Software Engineer | AI Enthusiast**  
 I enjoy building robust software solutions, exploring new tech, and making complex systems work seamlessly.  
 
 ---
