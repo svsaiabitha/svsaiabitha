@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋, I'm Abitha!
 
 <!--
 **svsaiabitha/svsaiabitha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# I'm Abitha! 
+ 
 
 💻 **Software Developer | AI Enthusiast**  
 I enjoy building robust software solutions, exploring new tech, and making complex systems work seamlessly.  
